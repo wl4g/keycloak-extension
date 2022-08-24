@@ -1,6 +1,6 @@
-# Keycloak extension plugins
+# Keycloak extensions
 
-- The Identity social Provider extension plugins for Keycloak, support WeCom/dingtalk/...
+- Keycloak the collection of enterprise-level extension plugins, supporting such as Identity social Provider WeCom/dingtalk, cloudiam theme etc...
 
 ## Quick Start
 
