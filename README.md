@@ -38,14 +38,13 @@ helm -n keycloak upgrade -i keycloak ./deploy/helm --create-namespace
 
 ## 2. Development Guide
 
-- Social Dingtalk
-
 ```bash
 git clone https://github.com/wl4g/keycloak-extension.git
-cd keycloak-extension/social-dingtalk
+cd keycloak-extension/
 
 mvn clean package -DskipTests -Dmaven.test.skip=true -P '!gpg'
 ```
 
 ## 3. FAQ
 
+TODO
