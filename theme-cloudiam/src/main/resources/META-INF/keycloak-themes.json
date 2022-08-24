@@ -1,0 +1,6 @@
+{
+  "themes": [{
+    "name" : "cloud-iam-redesign",
+    "types": [ "login", "email" ]
+  }]
+}
